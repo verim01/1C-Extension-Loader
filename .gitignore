@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Профили с паролями (шаблон оставляем)
+profiles/*.json
+!profiles/profile-template.json
+
+# Логи
+logs/
+*.log
+.cursor/debug.log
+
+# Локальные настройки (если появятся)
+*.local.json
+.run.lock

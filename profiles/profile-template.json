@@ -1,0 +1,19 @@
+{
+  "name": "profile-name",
+  "infobase_dir": "H:\\YourBaseFolder",
+  "infobase_file_path": "H:\\YourBaseFolder\\1Cv8.1CD",
+  "ib_username": "USER",
+  "ib_password": "PASSWORD",
+  "ib_password_env": "OPTIONAL_ENV_VAR",
+  "ibcmd_exe_path": "C:\\Program Files\\1cv8\\8.3.xx.xxxx\\bin\\ibcmd.exe",
+  "onec_exe_path": "C:\\Program Files\\1cv8\\8.3.xx.xxxx\\bin\\1cv8.exe",
+  "log_dir": "D:\\projects\\proj4\\docs\\automation\\logs",
+  "timeout_sec": 900,
+  "lock_file_path": "D:\\projects\\proj4\\docs\\automation\\.run.lock",
+  "extensions": [
+    {
+      "name": "ExtensionName",
+      "cfe_path": "D:\\path\\to\\extension.cfe"
+    }
+  ]
+}

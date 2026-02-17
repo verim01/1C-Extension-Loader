@@ -1,0 +1,10 @@
+{
+  "host": "127.0.0.1",
+  "port": 9010,
+  "mount_path": "/mcp",
+  "powershell_exe": "powershell",
+  "runner_script_path": "load-extension-ibcmd.ps1",
+  "runner_timeout_sec": 1200,
+  "profiles_dir": "./profiles",
+  "default_profile": "rio-santip4"
+}
