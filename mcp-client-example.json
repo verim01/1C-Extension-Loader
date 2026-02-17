@@ -1,0 +1,7 @@
+{
+  "1c-extension-loader": {
+    "url": "http://127.0.0.1:9010/mcp",
+    "timeout": 1200,
+    "disabled": false
+  }
+}

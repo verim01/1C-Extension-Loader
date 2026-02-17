@@ -86,7 +86,7 @@ python server.py
 
 ## MCP (Cursor / IDE)
 
-Сервер реализует протокол MCP на пути `/mcp`. В Cursor можно добавить в настройки MCP (например, `.cursor/mcp.json`):
+Сервер реализует протокол MCP на пути `/mcp`. В Cursor можно добавить в настройки MCP (например, `.cursor/mcp.json`). В корне проекта лежит пример конфигурации: **`mcp-client-example.json`** — скопируйте его в `.cursor/mcp.json` или вставьте в настройки MCP вручную:
 
 ```json
 {
